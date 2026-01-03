@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://datascientest.com/wp-content/uploads/2024/11/image4.webp" width="200" alt="Go application logo"><br>
- <a href="https://app-quick-app.github.io/.github/Go">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Go">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Go macOS">
  </a><br><br>
  <div align="center">
